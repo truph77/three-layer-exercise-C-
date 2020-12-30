@@ -1,0 +1,9 @@
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\bin\Debug\DTO.exe.config
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\bin\Debug\DTO.exe
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\bin\Debug\DTO.pdb
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\obj\Debug\DTO.exe
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DTO\obj\Debug\DTO.pdb

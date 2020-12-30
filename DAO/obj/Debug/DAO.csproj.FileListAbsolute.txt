@@ -1,0 +1,13 @@
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\bin\Debug\DAO.exe.config
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\bin\Debug\DAO.exe
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\bin\Debug\DAO.pdb
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\bin\Debug\DTO.exe
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\bin\Debug\DTO.pdb
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\bin\Debug\DTO.exe.config
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\obj\Debug\DAO.exe
+E:\CNTT\HK5 2021\LapTrinhTrucQuan(C#)\DAO\obj\Debug\DAO.pdb
